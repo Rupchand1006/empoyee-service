@@ -3,12 +3,9 @@ An example to create RESTful Web Service to perform CRUD operations using Spring
 
 ### Technology Stack ###
 
-- Spring Boot 1.4.1.RELEASE
+- Spring Boot 2.2.4.RELEASE
 - Spring Data JPA
-- Database – PostgreSQL
+- Database – PostgreSQL and H2
 - JDK 8
 
-### Related Article ###
-
-Refer [RESTful Web Services CRUD operations using Spring Boot](http://www.bytestree.com/spring/restful-web-service-crud-operation-spring-boot-example/) for detailed article.
 
